@@ -1,0 +1,7 @@
+{
+  "name": "Spooky Halloween Taboo & Memory Game",
+  "description": "An interactive Halloween-themed educational game suite featuring vocabulary flashcards with text-to-speech, a matching memory game, and a fast-paced Taboo game with dynamic card generation powered by Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
